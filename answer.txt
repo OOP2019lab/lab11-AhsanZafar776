@@ -1,0 +1,9 @@
+Exercise6:
+a) the possible reason is that we can pass age to another class btu we dont wanna pass firstname and the lastname top the inherited class.
+b) its gives an error that firstname and last name are inacccesible 
+c)as they are private and private members of a parent class can not be used by the inherited class in any way in inheritance
+
+Exercie 8:
+when we turn the inheritance to protected all the public members become protect which can be used by a child class and protect members stay protected so it works
+exercise 9:
+when we turn th inheritance to private and all the inherited member inlcluding the public and protected becomes private and private members can be accesed through the functions and thats what we did and thats why no error came here as well.
